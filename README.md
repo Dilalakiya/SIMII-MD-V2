@@ -39,9 +39,9 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Dilalakiya/SIMI-MD/)***
+2. ***Click [FORK]()***
 4. ***Get Your [Mongodb](https://www.mongodb.com/) Url***
-5. ***Deploy on [Heroku](https://www.heroku.com/)***
+5. ***Deploy on [Heroku](https://github.com/heroku/heroku-buildpack-nodejs.git)***
 6. ***Deploy on [Koyeb](https://www.koyeb.com/)***
 
 - ***Need Unlimited Stars On MY Repo***
