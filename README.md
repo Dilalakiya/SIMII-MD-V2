@@ -7,7 +7,7 @@
   </p>
 
 <p align="center">
-  <a href="https://github.com/Dilalakiya/SIMI-MD//">
+  <a href="https://github.com/Dilalakiya/SIMII-MD-V2//">
     <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
 
    <a href="https://github.com/Dilalakiya/SIMI-MD//fork">
@@ -39,19 +39,19 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK]()***
+2. ***Click [FORK](https://github.com/Dilalakiya/SIMII-MD-V2)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/) Url***
 5. ***Deploy on [Heroku](https://github.com/heroku/heroku-buildpack-nodejs.git)***
 6. ***Deploy on [Koyeb](https://www.koyeb.com/)***
 
 - ***Need Unlimited Stars On MY Repo***
-- ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com/Dilalakiya/SIMI-MD/).***
-- ***Also IF You Want To Give Me Ideas About Cmds, Then Create [Issue](https://github.com/Dilalakiya/SIMI-MD/) With Title #Idea.***
+- ***If You Are Facing Any Issue In Bot, Then Create [Issue](https://github.com/Dilalakiya/SIMII-MD-V2).***
+- ***Also IF You Want To Give Me Ideas About Cmds, Then Create [Issue](https://github.com/Dilalakiya/SIMII-MD-V2) With Title #Idea.***
 ##
 
 
 - ***Star ⭐ My Repo If You Like.***
-- ***The [SIMI-MD](https://github.com/Dilalakiya/SIMI-MD/) is Made Under The [DILABOTZ TEAM YT-2.0 license](https://github.com/Dilalakiya/SIMI-MD//blob/main/LICENSE).***
+- ***The [SIMI-MD](https://github.com/Dilalakiya/SIMII-MD-V2) is Made Under The [DILABOTZ TEAM YT-2.0 license](https://github.com/Dilalakiya/SIMI-MD//blob/main/LICENSE).***
 - ***[DILABOTZ TEAM YT-2.0 license](https://github.com/Dilalakiya/SIMI-MD//blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
